@@ -1,0 +1,5 @@
+# gym == 0.20.0
+# 在该文件集中，我们任然使用DDPG算法尝试解决Task2
+# 基本架构与Task1中DDPG算法相同，在参数设置中令train文件中的MAX_EPSISODE = 9000
+# 训练后得到结果
+# run text.py to see the test result

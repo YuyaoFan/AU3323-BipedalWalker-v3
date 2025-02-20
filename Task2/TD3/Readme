@@ -1,0 +1,6 @@
+# gym == 0.20.0
+# In this part, we use TD3 algorithm to finish Task2
+# based on DDPG, we use two Critic network to solve the problem that DDPG is easy to over-estimate Q value
+# also, we get noise for action in order to make walker more stable
+# the train weight data has been stored in Checkpoint file
+# run TD3_test.py to see the test result 
