@@ -52,11 +52,16 @@ DDPG（Deep Deterministic Policy Gradient）算法是一种无模型的off-polic
 由DDPG算法训练的Agent在BipedalWalker这类简单环境中可能表现尚佳,因此，在任务 2中，你可以自由对Agent进行改进，以尝试通关‘BipedalWalkerHardcore’任务。Hardcore模式下的测试脚
 本已经给出。
 
-## 继续使用DDPG算法通关Task 2
+## 尝试使用DDPG算法通关Task 2
+
+实验结果
+<video src="https://github.com/YuyaoFan/AU3323-BipedalWalker-v3/blob/master/Videos/Task2_DDPG.mp4.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
+## 使用TD3算法通关Task 2
 
-
+实验结果
+<video src="https://github.com/YuyaoFan/AU3323-BipedalWalker-v3/blob/master/Videos/Task2_TD3.mp4.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 
